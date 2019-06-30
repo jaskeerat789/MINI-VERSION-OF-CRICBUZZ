@@ -1,0 +1,33 @@
+body{
+    background: khaki;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant-east-asian: proportional-width;
+}
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+table{
+    float: left;
+    width: 50%;
+}
+input{
+    text-align: center;
+    height: 26px;
+}
+form{             
+    margin: auto 35%;
+}
+.headings{
+    font-family :cursive;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+button{
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+}

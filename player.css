@@ -1,0 +1,37 @@
+html{
+    height: 100%;
+}
+body{
+    background: khaki;
+    }
+table{
+    margin-left: 20%;
+}
+th{
+    color : white;
+    border: 1px blue solid ;
+    text-align: center;
+}
+em h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: yellowgreen;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+h1,h2{
+    color: crimson;
+    margin-left: 20%;
+}
+h1 em{
+    color: white;
+    font-family: cursive;
+}
+.stats{
+    width: 40%;
+}
+img{
+    float: left;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 3%;
+}
